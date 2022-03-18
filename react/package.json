@@ -1,5 +1,5 @@
 {
-  "name": "vtex.search-result",
+  "name": "vtex.product-image-slider-mobile",
   "description": "A Search Result.",
   "scripts": {
     "pretest": "yarn",
