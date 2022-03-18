@@ -24,7 +24,7 @@ In your theme's `manifest.json`, add the Search Result app as a dependency:
 
 ```json
   "dependencies": {
-    "vtex.product-image-slider-mobile": "3.x"
+    "vtex.search-result": "3.x"
   }
 ```
 
